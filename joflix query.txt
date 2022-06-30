@@ -1,0 +1,78 @@
+sqlite> SELECT movies.title, genres.genre FROM movies LEFT JOIN genres ON movies.id=genres.movies_id;
+Zack and miri make a porno|Romance
+Youth in revolt|Comedy
+You will meet a tall dark stranger|Thriller
+When in rome|Comedy
+What happens in vegas|Romance
+Water for elephants|Comedy
+Wall-e|Drama
+Waitress|Comedy
+Waiting for forever|Drama
+Valentine's day|Romance
+Tyler perry's why did i get married|Comedy
+Twilight: breaking dawn|Drama
+Twilight|Animation
+The ugly truth|Romance
+The twilight saga: new moon|Romance
+The time traveler's wife|Comedy
+The proposal|Romance
+The invention of lying|Drama
+The heartbreak kid|Comedy
+The duchess|Romance
+The curious case of benjamin button|Romance
+The back-up plan|Comedy
+Tangled|Drama
+Something borrowed|Comedy
+She's out of my league|Drama
+Sex and the city two|Comedy
+Sex and the city 2|Comedy
+Sex and the city|Comedy
+Remember me|Drama
+Rachel getting married|Fantasy
+Penelope|Comedy
+P.s. i love you|Animation
+Over her dead body|Romance
+Our family wedding|Comedy
+One day|Comedy
+Not easily broken|Comedy
+No reservations|Comedy
+Nick and norah's infinite playlist|Drama
+New year's eve|Drama
+My week with marilyn|Comedy
+Music and lyrics|Romance
+Monte carlo|Comedy
+Miss pettigrew lives for a day|Comedy
+Midnight in paris|Romance
+Marley and me|Drama
+Mamma mia!|Comedy
+Mamma mia!|Comedy
+Made of honor|Romance
+Love happens|Drama
+Love & other drugs|Romance
+Life as we know it|Romance
+License to wed|Comedy
+Letters to juliet|Romence
+Leap year|Comedy
+Knocked up|Comedy
+Killers|Comedy
+Just wright|Comdy
+Jane eyre|Drama
+It's complicated|Comedy
+I love you phillip morris|Comedy
+High school musical 3: senior year|Comedy
+He's just not that into you|Comedy
+Good luck chuck|Comedy
+Going the distance|Comedy
+Gnomeo and juliet|Action
+Gnomeo and juliet|Comedy
+Ghosts of girlfriends past|Romance
+Four christmases|Comedy
+Fireproof|Comedy
+Enchanted|Comedy
+Dear john|Comedy
+Beginners|Comedy
+Across the universe|Comedy
+A serious man|Animation
+A dangerous method|Animation
+27 dresses|Comedy
+(500) days of summer|Comedy
