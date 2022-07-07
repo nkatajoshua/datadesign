@@ -1,4 +1,4 @@
-QUERY 1(Ratings)
+QUERY 1(Ratings - showing top 5 shows)
 SELECT sh.title FROM shows sh, ratings r WHERE r.show_id=sh.id ORDER BY r.rating DESC LIMIT 5;
-QUERY 2(Genres)
+QUERY 2(Genres - showing genres of the shows acted by Robert Downey Jr)
 SELECT g.genre FROM people p, stars s, genres g WHERE p.id=s.person_id AND s.show_id=g.show_id AND p.name LIKE "%Robert Downey Jr%";
