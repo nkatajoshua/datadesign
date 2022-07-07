@@ -1,0 +1,4 @@
+QUERY 1(Ratings)
+SELECT sh.title FROM shows sh, ratings r WHERE r.show_id=sh.id ORDER BY r.rating DESC LIMIT 5;
+QUERY 2(Genres)
+SELECT g.genre FROM people p, stars s, genres g WHERE p.id=s.person_id AND s.show_id=g.show_id AND p.name LIKE "%Robert Downey Jr%";
